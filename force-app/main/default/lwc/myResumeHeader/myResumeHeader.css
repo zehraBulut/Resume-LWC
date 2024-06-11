@@ -1,0 +1,45 @@
+.m-auto{
+    margin:auto;
+}
+.profile_pic{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    
+}
+
+.link{
+   color: #6c096b; 
+   font-size: 1rem;
+
+   
+}
+
+.nameHeading{
+    color: #930790;
+    font-size: 2.25rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.0625rem;
+    line-height: 1.25;
+    font-weight: bold;
+
+   
+  
+}
+.roleHeading{
+    font-size: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: #930790;
+    font-weight: bold;
+
+   
+    
+}
+
+@media only screen and (max-width: 600px) {
+  .mobile_text_center {
+    text-align:center;
+   
+  }
+}
